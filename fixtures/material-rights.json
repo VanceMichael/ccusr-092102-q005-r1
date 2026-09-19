@@ -1,0 +1,7 @@
+{
+  "material_id": "sample-chip-layout-01",
+  "owner_party": "party-a",
+  "project_stage": "joint-validation",
+  "allowed_purposes": ["laboratory-validation"],
+  "allowed_receivers": ["party-b-lab"]
+}
